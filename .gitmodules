@@ -1,0 +1,6 @@
+[submodule "applet/vendor/JCFROST"]
+	path = applet/vendor/JCFROST
+	url = https://github.com/crocs-muni/JCFROST
+[submodule "applet/vendor/JCMathLib"]
+	path = applet/vendor/JCMathLib
+	url = https://github.com/OpenCryptoProject/JCMathLib
